@@ -1,4 +1,4 @@
-CPAL -> WASM Test
+# CPAL -> WASM Test
 
 This example includes JS with bindings to WASM compiled Rust code using [CPAL](https://github.com/RustAudio/cpal) for audio.
 
